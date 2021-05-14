@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/smartapp/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/smartapp/static/js/main.aeff790f.chunk.js",
+    "main.js.map": "/smartapp/static/js/main.aeff790f.chunk.js.map",
+    "runtime-main.js": "/smartapp/static/js/runtime-main.68782624.js",
+    "runtime-main.js.map": "/smartapp/static/js/runtime-main.68782624.js.map",
+    "static/js/2.38d6506e.chunk.js": "/smartapp/static/js/2.38d6506e.chunk.js",
+    "static/js/2.38d6506e.chunk.js.map": "/smartapp/static/js/2.38d6506e.chunk.js.map",
+    "static/js/3.ebb32c50.chunk.js": "/smartapp/static/js/3.ebb32c50.chunk.js",
+    "static/js/3.ebb32c50.chunk.js.map": "/smartapp/static/js/3.ebb32c50.chunk.js.map",
+    "index.html": "/smartapp/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/smartapp/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.38d6506e.chunk.js.LICENSE.txt": "/smartapp/static/js/2.38d6506e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/smartapp/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68782624.js",
+    "static/js/2.38d6506e.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.aeff790f.chunk.js"
+  ]
+}
